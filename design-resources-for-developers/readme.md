@@ -2,7 +2,7 @@
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
-
+  
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
